@@ -1,14 +1,24 @@
-# Sebastian Falcone</h1>
- 
- * Universidad Tecnologica Nacional
-   * Ingenieria Electronica
- 
-## My other sites </h2>
+# Sebastian Falcone
+__________ 
+#### :books: Studying at :books:
+  - Universidad Tecnologica Nacional
+    - Electronic engineering
+
+#### :wrench: Working at :wrench:
+  - RDG electronics
+    - Embedded firmware developer
+__________
+#### Currently
+- :wrench: Working on esp8266 and esp32 firmware develop (HMI interface)
+- :books: Learning Docker, nodejs, reactjs and IoT (Full stack project)
+
+__________
+#### My other sites
 
   * <a href="https://gitlab.frba.utn.edu.ar/sfalcone">My gitlab </a> 
   
   * <a href="https://www.linkedin.com/in/sebastian-falcone-593503127/">My linkedin </a> 
-
+__________
 ## Github Stats
  
 <p align="center">
@@ -21,6 +31,7 @@
  <br><br>
 </p>
 
+__________
 ## My stack
 <p align="center">
  <a href="https://github.com/sebasfalcone/6502_EMU"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=6502_EMU" /> </a>
