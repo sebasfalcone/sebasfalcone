@@ -11,6 +11,7 @@ __________
 #### Currently
 - :wrench: Working on esp8266 and esp32 firmware develop (HMI interface)
 - :books: Learning Docker, nodejs, reactjs and IoT (Full stack project)
+- :books: Telegram bots integration with python
 
 __________
 #### My other sites
