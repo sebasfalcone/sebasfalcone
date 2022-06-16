@@ -36,7 +36,6 @@ __________
 ## My stack
 <p align="center">
  <a href="https://github.com/sebasfalcone/6502_EMU"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=6502_EMU" /> </a>
- <a href="https://github.com/sebasfalcone/aam_dockerized"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=aam_dockerized" /> </a>
 </p>
 
 
