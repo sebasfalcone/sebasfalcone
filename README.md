@@ -16,7 +16,7 @@ __________
 #### Achieved
 - ✅ Embedded C software development.
 - ✅ Docker, nodejs, reactjs and IoT security.
-- ✅ Python and telegram integration.
+- ✅ Telegram integration with Python.
 __________
 #### My other sites
   
@@ -26,18 +26,21 @@ __________
  
 <p align="center">
  <a href="https://github.com/sebasfalcone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sebasfalcone&count_private=true&theme=tokyonight&showicons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sebasfalcone&count_private=true&theme=gruvbox&showicons=true" />
  </a>
  <br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasfalcone&langs_count=5&theme=tokyonight&exclude_repo=TDI,PDS,TCII_tareas_semanales" />
- 
+  <a href="https://github.com/sebasfalcone"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasfalcone&hide=shell&langs_count=10&layout=compact&theme=gruvbox">
+ <br><br>
+   <a href="https://github.com/sebasfalcone"><img width="800" src="https://github-profile-trophy.vercel.app/?username=sebasfalcone&row=1&column=5&theme=gruvbox">
  <br><br>
 </p>
+
 
 __________
 ## My stack
 <p align="center">
- <a href="https://github.com/sebasfalcone/6502_EMU"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=6502_EMU" /> </a>
+ <a href="https://github.com/sebasfalcone/6502_EMU"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=6502_EMU&theme=gruvbox" /> </a>
+
 </p>
 
 
