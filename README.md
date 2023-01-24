@@ -7,16 +7,7 @@ __________
 #### :wrench: Working at :wrench:
   - [WAZUH inc.](https://wazuh.com)
     - Software Engineer C/C++
-__________
-#### Currently
-- ~~:wrench: Working on esp8266 and esp32 firmware develop (HMI interface)~~
-- ~~:books: Learning Docker, nodejs, reactjs and IoT security (Full stack project)~~
-- ~~:books: Telegram bots integration with python~~
-
-#### Achieved
-- ✅ Embedded C software development.
-- ✅ Docker, nodejs, reactjs and IoT security.
-- ✅ Telegram integration with Python.
+    
 __________
 #### My other sites
   
