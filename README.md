@@ -14,10 +14,27 @@ __________
   * <a href="https://www.linkedin.com/in/sebastian-falcone-593503127/">My linkedin </a> 
 
 __________
-## My stack
+## Technologies and tools:
+
+<div align="center">
+
+|                                                                              Technology                                                                              | Years of experience |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg) |                   1 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" width="30"/>](ttps://github.com/get-icon/geticon/blob/master/icons/c.svg)                    |                   4 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg)     |                   4 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg)   |                   4 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/bash.svg)             |                   3 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/bash.svg)      |                   1 |
+
+</div>
+
+## Projects
 <p align="center">
- <a href="https://github.com/wazuh/wazuh"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wazuh&repo=wazuh&theme=gruvbox" /> </a>
- <a href="https://github.com/sebasfalcone/cpp-interfaces"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=cpp-interfaces&theme=gruvbox" /> </a>
+  <a href="https://github.com/wazuh/wazuh"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wazuh&repo=wazuh&theme=gruvbox" /> </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sebasfalcone/cpp-interfaces"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=cpp-interfaces&theme=gruvbox" /> </a>
 </p>
 
 __________
@@ -31,7 +48,3 @@ __________
   <a href="https://github.com/sebasfalcone"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasfalcone&hide=shell&langs_count=10&layout=compact&theme=gruvbox">
  <br><br>
 </p>
-
-
-
-
