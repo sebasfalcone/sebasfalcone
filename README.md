@@ -1,20 +1,20 @@
-# Sebastian Falcone
+# :wave: Hi! I'am Sebastian Falcone
 __________ 
 #### :books: Studying at :books:
-  - [UADE](https://www.uade.edu.ar)
-    - Computer engineering student
+- [UADE](https://www.uade.edu.ar)
+  - Computer engineering student
 
 #### :wrench: Working at :wrench:
-  - [WAZUH inc.](https://wazuh.com)
-    - Software Engineer C/C++
+- [WAZUH inc.](https://wazuh.com)
+  - Software Engineer C/C++
     
 __________
-#### My other sites
+### Contact me! :phone:
   
-  * <a href="https://www.linkedin.com/in/sebastian-falcone-593503127/">My linkedin </a> 
+[<img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" width="30"/>](https://www.linkedin.com/in/sebastian-falcone-593503127/)
 
 __________
-## Technologies and tools:
+## Technologies and tools 💻🔨
 
 <div align="center">
 
