@@ -37,7 +37,7 @@ __________
   <a href="https://github.com/wazuh/wazuh"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wazuh&repo=wazuh&theme=gruvbox" /> </a>
 </p>
 <p align="center">
-  <a href="https://github.com/sebasfalcone/cpp-interfaces"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=cpp-interfaces&theme=gruvbox" /> </a>
+  <a href="https://github.com/sebasfalcone/go-load-balancer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=go-load-balancer&theme=gruvbox" /> </a>
 </p>
 
 __________
