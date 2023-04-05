@@ -8,6 +8,9 @@ __________
 - [WAZUH inc.](https://wazuh.com)
   - Software Engineer C/C++
     
+#### 🤓 Now learning 🤓
+- [GoLang](https://go.dev/)
+  - [Load balancer](https://github.com/sebasfalcone/go-load-balancer)
 __________
 ### Contact me! :phone:
   
