@@ -11,6 +11,7 @@ __________
 #### 🤓 Now learning 🤓
 - [GoLang](https://go.dev/)
   - [Load balancer](https://github.com/sebasfalcone/go-load-balancer)
+  - [Music fadeout](https://github.com/sebasfalcone/volume-fadeout)
 __________
 ### Contact me! :phone:
   
@@ -38,6 +39,9 @@ __________
 </p>
 <p align="center">
   <a href="https://github.com/sebasfalcone/go-load-balancer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=go-load-balancer&theme=gruvbox" /> </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sebasfalcone/volume-fadeout"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=volume-fadeout&theme=gruvbox" /> </a>
 </p>
 
 __________
