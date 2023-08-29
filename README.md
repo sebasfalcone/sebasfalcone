@@ -1,8 +1,8 @@
 # :wave: Hi! I'am Sebastian Falcone
 __________ 
 #### :books: Studying at :books:
-- [UADE](https://www.uade.edu.ar)
-  - Computer engineering student
+- ~[UTN FBRA](https://www.frba.utn.edu.ar/): Electronic engineering~
+- ~[UADE](https://www.uade.edu.ar):  Computer engineering~
 
 #### :wrench: Working at :wrench:
 - [WAZUH inc.](https://wazuh.com)
