@@ -26,12 +26,12 @@ __________
 
 |                                                                              Technology                                                                              | Years of experience |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|
-| [<img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg) |                   1 |
-| [<img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" width="30"/>](ttps://github.com/get-icon/geticon/blob/master/icons/c.svg)                    |                   4 |
-| [<img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg)     |                   4 |
-| [<img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg)   |                   4 |
-| [<img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/bash.svg)             |                   3 |
-| [<img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/bash.svg)      |                   1 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg) |                   2 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" width="30"/>](ttps://github.com/get-icon/geticon/blob/master/icons/c.svg)                    |                   5 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg)     |                   5 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg)   |                   5 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/bash.svg)             |                   4 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/bash.svg)      |                   2 |
 
 </div>
 
