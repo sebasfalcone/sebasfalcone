@@ -2,18 +2,22 @@
 
 [//]: <> (Your token is mine.)
 __________ 
-#### :books: Studying at :books:
-- ~[UTN FBRA](https://www.frba.utn.edu.ar/): Electronic engineering~
-- ~[UADE](https://www.uade.edu.ar):  Computer engineering~
 
 #### :wrench: Working at :wrench:
 - [WAZUH inc.](https://wazuh.com)
-  - Software Engineer C/C++
+  - Team Lead C/C++
+  - ~Software Engineer C/C++~
     
 #### 🤓 Now learning 🤓
+- Managing groups
+- Software design and architecture
 - [GoLang](https://go.dev/)
   - [Load balancer](https://github.com/sebasfalcone/go-load-balancer)
   - [Music fadeout](https://github.com/sebasfalcone/volume-fadeout)
+
+#### :books: Studied at :books:
+- [UTN FBRA](https://www.frba.utn.edu.ar/): Electronic engineering
+- [UADE](https://www.uade.edu.ar):  Computer engineering
 __________
 ### Contact me! :phone:
   
@@ -25,35 +29,27 @@ __________
 <div align="center">
 
 |                                                                              Technology                                                                              | Years of experience |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|
-| [<img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg) |                   2 |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg) |                   3 |
 | [<img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" width="30"/>](ttps://github.com/get-icon/geticon/blob/master/icons/c.svg)                    |                   5 |
 | [<img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg)     |                   5 |
-| [<img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg)   |                   5 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg)   |                   4 |
 | [<img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/bash.svg)             |                   4 |
+| [<img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/python.svg)         |                   2 |
 | [<img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" width="30"/>](https://github.com/get-icon/geticon/blob/master/icons/bash.svg)      |                   2 |
 
 </div>
 
-## Projects
+## Projects involved in
 <p align="center">
   <a href="https://github.com/wazuh/wazuh"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wazuh&repo=wazuh&theme=gruvbox" /> </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sebasfalcone/go-load-balancer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=go-load-balancer&theme=gruvbox" /> </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sebasfalcone/volume-fadeout"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebasfalcone&repo=volume-fadeout&theme=gruvbox" /> </a>
 </p>
 
 __________
 ## Github Stats
  
 <p align="center">
- <a href="https://github.com/sebasfalcone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sebasfalcone&count_private=true&theme=gruvbox&showicons=true" />
- </a>
- <br><br>
-  <a href="https://github.com/sebasfalcone"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasfalcone&hide=shell&langs_count=10&layout=compact&theme=gruvbox">
- <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sebasfalcone&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="sebasfalcone's Stats"><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasfalcone&theme=dracula&hide_border=false" alt="sebasfalcone's Streak"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasfalcone&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="sebasfalcone's Top Languages">
 </p>
