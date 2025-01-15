@@ -6,7 +6,7 @@ __________
 #### :wrench: Working at :wrench:
 - [WAZUH inc.](https://wazuh.com)
   - Team Lead C/C++
-  - ~Software Engineer C/C++~
+  - Software Engineer C/C++
     
 #### 🤓 Now learning 🤓
 - Managing groups
