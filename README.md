@@ -4,9 +4,11 @@
 __________ 
 
 #### :wrench: Working at :wrench:
-- [WAZUH inc.](https://wazuh.com)
-  - Team Lead C/C++
-  - Software Engineer C/C++
+- [Qubika](https://qubika.com/)
+  - Senior Embedded Engineer C/C++
+- ~[WAZUH inc.](https://wazuh.com)~
+  - ~Team Lead C/C++~
+  - ~Software Engineer C/C++~
     
 #### 🤓 Now learning 🤓
 - Managing groups
